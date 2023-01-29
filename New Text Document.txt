@@ -1,0 +1,8 @@
+Set conditional access to block high risk users using Android for Cloud Apps
+Steps:
+1.	Azure portal   Azure AD  Security Conditional Access
+2.	+new policy  give name, select users, cloud apps
+3.	Conditions  	select User risk & sign-in risk ‘high’
+4.	Device platforms select ‘Android’
+5.	Block access and Enable policy on
+6.	create
