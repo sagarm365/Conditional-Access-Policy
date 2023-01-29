@@ -13,12 +13,12 @@ Project consists of a creating a Conditional Access Policiy to block High risk u
 
 <h2>Prerequisites</h2>
 
--<b> Sensitivity labels can be created or modified by anyone assigned the following roles:
+-<b> Conditional Access Policy can be created or modified by anyone assigned the following roles:
  - Conditional Access Administrator
  - Security Administrator
  - Global Administrator
  </b>
-- <b> Licenses: Azure AD Premium P2, Enterprise Mobility and Security E5 plan</b>
+- <b> Licenses: Azure AD Premium or trial license</b>
 
 
 <h2>Program walk-through:</h2>
